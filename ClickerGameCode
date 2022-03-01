@@ -1,0 +1,24 @@
+onEvent("awgetouch", "click", function(){
+setScreen("awge");
+});
+onEvent("awgehome", "click", function(){
+setScreen("homescreen");
+stopSound("c2.mp3");
+});
+onEvent("cozyhome", "click", function(){
+setScreen("homescreen");
+});
+onEvent("dripordrown", "click", function(){
+setScreen("cozytapes");
+});
+onEvent("asaptouch", "click", function(){
+setScreen("asappage");
+playSound("A-AP-Mob---Perry-Aye-my-free-mp3s.com-.mp3", true);
+});
+onEvent("asaphome", "click", function(){
+setScreen("homescreen");
+stopSound("A-AP-Mob---Perry-Aye-my-free-mp3s.com-.mp3");
+});
+onEvent("awgetouch", "click", function(){
+playSound("c2.mp3", true);
+});
