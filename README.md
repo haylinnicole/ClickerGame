@@ -11,5 +11,5 @@ I'm revisiting it now to fix the audio issues.
 You can even experience it here: https://studio.code.org/projects/applab/-GoyEP2NDUvd4QcF7QKfgRAKKXkysOW8_rBQcffdM2I
 
 
-3/19 Update:
+4/2 Update:
 I have decided to restart this program from scratch, it will be good JS practice again
